@@ -1,0 +1,22 @@
+@tailwind base;
+@tailwind components;
+@tailwind utilities;
+
+.images{
+  margin-left: 80px;
+  cursor: pointer;
+}
+.my{
+  margin-left: 130px;
+}
+.bg{
+  margin-left: 130px;
+}
+.my_sectionn{
+  margin-top: -70px;
+  margin-left: 520px;
+}
+.img{
+  margin-left: -370px;
+  display: flex;
+}
